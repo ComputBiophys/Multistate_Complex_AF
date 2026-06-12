@@ -290,13 +290,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     custom_colors = [
-        '#ffa07a',
-        '#8B5A2B',
-        '#e42747',
-        '#FF6B6B',
-        '#f70084',
-        '#00AA7F',
-        '#5f0e3d'
+        '#ffa07a'
     ]
     
     try:
